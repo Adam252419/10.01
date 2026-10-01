@@ -1,0 +1,20 @@
+header{
+    flex: 0 0 100%;
+}
+footer{
+    flex: 0 0 100%;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+nav{
+    flex: 0 0 200px;
+}
+article{
+    flex: 1 1 auto;
+}
+form div{
+    display: flex;
+}
